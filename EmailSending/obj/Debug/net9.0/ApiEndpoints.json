@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "EmailSending.Controllers.EmailController",
+    "Method": "Send",
+    "RelativePath": "Email/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EmailSending.Controllers.EmailController\u002BEmailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
