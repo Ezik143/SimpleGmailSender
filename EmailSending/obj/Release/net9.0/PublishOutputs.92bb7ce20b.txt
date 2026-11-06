@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\lab\SimpleGmailSender\EmailSending\publish\EmailSending.exe
+C:\Users\Lenovo\Desktop\lab\SimpleGmailSender\EmailSending\publish\appsettings.Development.json
+C:\Users\Lenovo\Desktop\lab\SimpleGmailSender\EmailSending\publish\appsettings.json
+C:\Users\Lenovo\Desktop\lab\SimpleGmailSender\EmailSending\publish\EmailSending.dll
+C:\Users\Lenovo\Desktop\lab\SimpleGmailSender\EmailSending\publish\EmailSending.deps.json
+C:\Users\Lenovo\Desktop\lab\SimpleGmailSender\EmailSending\publish\EmailSending.runtimeconfig.json
+C:\Users\Lenovo\Desktop\lab\SimpleGmailSender\EmailSending\publish\EmailSending.pdb
+C:\Users\Lenovo\Desktop\lab\SimpleGmailSender\EmailSending\publish\MailKit.dll
+C:\Users\Lenovo\Desktop\lab\SimpleGmailSender\EmailSending\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Lenovo\Desktop\lab\SimpleGmailSender\EmailSending\publish\Microsoft.OpenApi.dll
+C:\Users\Lenovo\Desktop\lab\SimpleGmailSender\EmailSending\publish\MimeKit.dll
+C:\Users\Lenovo\Desktop\lab\SimpleGmailSender\EmailSending\publish\NETCore.MailKit.dll
+C:\Users\Lenovo\Desktop\lab\SimpleGmailSender\EmailSending\publish\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\lab\SimpleGmailSender\EmailSending\publish\Scalar.AspNetCore.dll
